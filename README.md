@@ -1,6 +1,6 @@
 # component designs
 
-> My name is John Silver. I have a long fucking memory.
+> My name is John Silver. And I've got a long fucking memory.
 
 ### frontend
 
