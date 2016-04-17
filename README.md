@@ -17,3 +17,13 @@
   
 ##### entity manipulation
 
+# application
+
+### HR
+
+1. departments
+  1. subordinate to (department or NULL)
+1. positions
+  1. subordinate to (position or NULL)
+  1. is managing (bool)
+  1. supervision (departments)
